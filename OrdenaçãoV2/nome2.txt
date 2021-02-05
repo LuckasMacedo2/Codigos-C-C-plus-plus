@@ -1,0 +1,13 @@
+20162005566123;Joao Silva;Aprovado
+20151003305470;Dell ;Aprovado
+20162003305470;Lucas Macedo ;Aprovado
+20161003309878;José Silva ;Aprovado
+20161000109800;Allan Vieira ;Reprovado
+20011000178560;Allana Vieira ;Aprovado
+19982002398736;Zuckernberg Marck ;Aprovado
+20051008976300;Douglas Silva ;Reprovado
+20022009382920;Luan ;Aprovado
+20042002345476;Marcos ;Reprovado
+20052002345476;Ruan Marcos ;Reprovado
+19982009123232;Caio Castro;Aprovado
+19982009123232;Caio Lima;Reprovado

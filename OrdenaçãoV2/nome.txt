@@ -1,0 +1,20 @@
+20151003305470;Dell ;Aprovado
+20162003305470;Lucas Macedo ;Aprovado
+20161000109800;Allan Vieira ;Reprovado
+20011000178560;Allana Vieira ;Aprovado
+19982003398736;Zuckernberg Marck ;Aprovado
+20051008976300;Douglas Silva ;Reprovado
+20031009212323;Danilo Jose;Reprovado
+20022009382920;Luan ;Aprovado
+20031090129323;Joao Silva;Aprovado
+20042002345476;Marcos ;Reprovado
+20052002345476;Ruan Marcos ;Reprovado
+19982003365371;Alfonse Elric; Aprovado
+19981003309871;Allan Turini;Aprovado
+20161003309874;Vitor Almeida ;Aprovado
+20161003302123;Higor Alves ;Aprovado
+20151005508792;Platão ;Reprovado
+20151004501232;Irineu ;Aprovado
+20031987321232;Amanda Damasco;Reprovado
+20031000000000;Shogun ;Aprovado
+20162003304567;Bill Gates;Reprovado
