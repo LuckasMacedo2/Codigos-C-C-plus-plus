@@ -1,0 +1,38 @@
+/*
+
+*/
+
+#include<iostream>
+using namespace std;
+main()
+{
+	float n1, n2, n3, ex, md;
+	
+	cout<<"\nDigite as tres notas do aluno sucessivamente: ";
+	cin>>n1>>n2>>n3;
+	cout<<"\nDigite a media dos exercicios: ";
+	cin>>ex;
+	
+	md = (n1 + (n2*2) + (n3*3) + ex)/7;
+	
+	if (md >= 9.1)
+	{
+		cout<<"\nO Aluno conseguiu conceito A!, e a media foi: "<<md<<endl;
+	}
+	else if (md>=7.6 && 9>=md)
+	{
+		cout<<"\nO aluno conseguiu conceito B!, e a media foi: "<<md<<endl;
+	}
+	else if (md>=6.1 && 7.5>=md)
+	{
+		cout<<"\nO aluno conseguiu conceito C!, e a media foi: "<<md<<endl;
+	}
+	else if (md>=4.1 && 6>=md)
+	{
+		cout<<"\nO aluno conseguiu conceito D!, e a media foi: "<<md<<endl;
+	}
+	else if (md<4)
+	{
+		cout<<"\nO aluno conseguiu conceito E!,e a media foi: "<<md<<endl;
+	}
+}

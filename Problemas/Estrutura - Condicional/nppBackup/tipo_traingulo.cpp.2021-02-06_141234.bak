@@ -1,0 +1,26 @@
+/*
+*/
+
+#include<iostream>
+using namespace std;
+main()
+{
+	int n, soma, qua;
+	
+	cout<<"\nDigite um número inteiro de 4 digitos: ";
+	cin>>n;
+	//PROCESSAMENTO
+	
+	soma = (n/100) + (n%100);
+
+	qua = soma*soma;
+	
+	if (qua == n)
+	{
+		cout<<"\nO número possui a caracteristica em questão "<<endl;
+	}
+	else 
+	{
+		cout<<"\nO número não  possui a caracteristica em questão "<<endl;
+	}
+}

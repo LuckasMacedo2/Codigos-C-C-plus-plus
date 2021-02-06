@@ -1,0 +1,28 @@
+/*
+Fazer um algoritmo que dado os lados de um triângulo A, B e C. Dizer se os lados dados formam um triângulo: retângulo
+(A^2=B^2+C^2), obtusângulo (A^2>B^2+C^2) ou acutângulo (A^2<B^2+C^2).
+*/
+
+#include<iostream>
+using namespace std;
+main()
+{
+	int n, soma, qua;
+	
+	cout<<"\nDigite um número inteiro de 4 digitos: ";
+	cin>>n;
+	//PROCESSAMENTO
+	
+	soma = (n/100) + (n%100);
+
+	qua = soma*soma;
+	
+	if (qua == n)
+	{
+		cout<<"\nO número possui a caracteristica em questão "<<endl;
+	}
+	else 
+	{
+		cout<<"\nO número não  possui a caracteristica em questão "<<endl;
+	}
+}
